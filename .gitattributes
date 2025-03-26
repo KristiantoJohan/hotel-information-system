@@ -1,3 +1,4 @@
+linguist-vendored
 /mvnw text eol=lf
 *.cmd text eol=crlf
 *.java linguist-detectable=true
